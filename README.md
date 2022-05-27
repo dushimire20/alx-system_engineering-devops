@@ -1,1 +1,1 @@
-Creating first readme
+file manipulation script
